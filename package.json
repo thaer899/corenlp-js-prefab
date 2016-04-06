@@ -1,6 +1,6 @@
 {
   "name": "corenlp-js-prefab",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Use corenlp-js-interface with a simple prefab function so you only have to send text no extra parameters with each call",
   "main": "index.js",
   "dependencies": {

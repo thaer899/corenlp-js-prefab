@@ -1,0 +1,34 @@
+{
+  "name": "corenlp-js-prefab",
+  "version": "1.0.0",
+  "description": "Use corenlp-js-interface with a simple prefab function so you only have to use one parameterwith each call",
+  "main": "index.js",
+  "dependencies": {
+    "corenlp-js-interface": ">1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noahDess/corenlp-js-prefab.git"
+  },
+  "keywords": [
+    "CoreNLP",
+    "NLP",
+    "machine learning",
+    "linguistic programming",
+    "linguistic",
+    "natural language",
+    "sentiment analysis",
+    "language",
+    "corenlp",
+    "nlp"
+  ],
+  "author": "Noah Dessauer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noahDess/corenlp-js-prefab/issues"
+  },
+  "homepage": "https://github.com/noahDess/corenlp-js-prefab#readme"
+}

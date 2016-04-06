@@ -8,7 +8,7 @@ Download and extract Stanford CoreNLP from http://stanfordnlp.github.io/CoreNLP/
 
 Run `java -mx4g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer` in the extracted folder to start the CoreNLP server at http://localhost:9000/.
 
-#####corenlp-js-interface
+#####corenlp-js-prefab
 `npm i corenlp-js-prefab`
 
 To test run `node node_modules/corenlp-js-prefab/example.js`
